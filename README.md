@@ -1,1 +1,1 @@
-contem as atividades das disciplina de Processamento de linguagem natural.
+# As atividades da disciplina de Processamento de linguagem natural.
