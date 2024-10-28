@@ -1,0 +1,5 @@
+{
+ "id": "56168",
+ "text": "O diagrama de instalação (ou diagrama de implantação) é definido pela Linguagem de Modelagem Unificada (Unified Modeling Language - UML), descreve os componentes de hardware e software e sua interação com outros elementos de suporte ao processamento. Representa a configuração e a arquitetura de um sistema em que estarão ligados seus componentes, sendo representado pela arquitetura física de hardware, processadores, etc. == Conceitos == * Nó: Representa uma peça física de equipamento na qual o sistema será implantado. * Artefatos: Qualquer pedaço físico de informação usada ou produzida por um sistema. * Especificação de implantação: Especifica um conjunto de propriedades que determina os parâmetros de execução de um artefato que está instalado em um nó. Categoria:Diagramas da UML",
+ "title": "Diagrama de instalação"
+}

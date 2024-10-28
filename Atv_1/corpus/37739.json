@@ -1,0 +1,5 @@
+{
+ "id": "37739",
+ "text": "No modelo relacional de bases de dados, é usada qualquer uma das expressões 1 para N, um para muitos ou 1:N (em inglês: one-to-many) para se referir a um dos tipos de relacionamentos que se podem estabelecer entre os campos de duas tabelas: cada tupla de uma tabela pode-se relacionar com N tuplas da outra tabela. Porém, cada tupla da segunda tabela só se relaciona com uma única tupla da primera. A forma típica de implementação de uma relação deste tipo é a utilização de uma chave estrangeira na tabela N. == Exemplos == * Um colégio pode ter várias turmas, mas cada turma pertence apenas a esse colégio. == Ver também == * Modelo de entidade e relacionamento * N:N * 1:1 Categoria:Bancos de dados",
+ "title": "1 para N"
+}

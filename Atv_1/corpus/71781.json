@@ -1,0 +1,5 @@
+{
+ "id": "71781",
+ "text": "Pseudocódigo é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples (nativa a quem o escreve, de forma a ser entendida por qualquer pessoa) sem necessidade de conhecer qualquer sintaxe de qualquer linguagem de programação livre de contexto. Um exemplo de pseudocódigo é o Portugol como método. Os livros sobre a ciência de computação utilizam frequentemente o pseudocódigo para ilustrar seus exemplos, de forma que todos os programadores possam entendê-los, independentemente da linguagem que utilizem. == Exemplo == Abaixo vemos o exemplo de um programa escrito em pseudocódigo que faz a leitura de dez números e calcula a média dos números positivos: INÍCIO VARIÁVEIS S,C,I,A,MD:Real; S ← 0; C ← 0; PARA I de 1 ATÉ 10 FAÇA PASSO 1 Escreva \"Digite um número: \"; LEIA A; SE A ≥ 0 ENTÃO S ← S + A; C ← C + 1; FIM SE; FIM PARA; MD ← S / C; ESCREVER (\"A média é: \", MD); FIM == Ver também == * Algoritmo * Fluxograma * Portugol * Martins, Paulo Roberto; Linguagens e técnicas de programação I: analise e desenvolvimento de sistemas; ISBN: 9788576052647 Categoria:Programação Categoria:Algoritmos",
+ "title": "Pseudocódigo"
+}
