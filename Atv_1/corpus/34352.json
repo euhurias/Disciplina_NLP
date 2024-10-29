@@ -1,5 +1,0 @@
-{
- "id": "34352",
- "text": "A função de Mertens é uma função muito usada na Teoria dos Números. Tem esse nome em homenagem ao matemático alemão Franz Mertens. É definida somente para os números naturais como: :M(n) = \\sum_{1\\le k \\le n} \\mu(k) onde μ(k) é a função de Möbius. Como μ(k) só pode ser -1, 0 e +1, é fácil de ver que a função de Mertens nunca vai ser maior que seu argumento (M(x) < x). A conjectura de Mertens é mais audaciosa, supondo que o valor absoluto da função nunca ultrapassa a raiz quadrada do argumento. Esta conjectura foi provada inválida em 1985 por Herman te Riele e Andrew Odlyzko. == Ver também == * Função de Möbius. Mertens Categoria:Teoria dos números",
- "title": "Função de Mertens"
-}

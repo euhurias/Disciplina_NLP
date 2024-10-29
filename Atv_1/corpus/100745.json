@@ -1,5 +1,0 @@
-{
- "id": "100745",
- "text": "O thumbs.db é um ficheiro oculto criado pelo sistema operacional Windows, e contém as imagens que você visualiza no modo Exibir, Miniaturas, do Windows Explorer. A remoção do ficheiro não é suficiente para apagar o ficheiro permanentemente, uma vez que ele é criado novamente. Para desativar a criação do ficheiro é necessário entrar no Windows Explorer, menu Ferramentas, Opções de Pasta, guia Modo de Exibição e selecionar a opção \"Não armazenar miniaturas em cache\". Na versão Vista estes ficheiros são criados numa directoria especial para o efeito, por oposição ao sistema antigo de um ficheiro por cada directoria com conteúdo multimédia. Categoria:Windows",
- "title": "Thumbs.db"
-}

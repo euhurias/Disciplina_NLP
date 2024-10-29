@@ -1,5 +1,0 @@
-{
- "id": "106223",
- "text": "TTL é um acrónimo do inglês Time to Live, que significa o número de saltos entre máquinas que os pacotes podem demorar numa rede de computadores antes de serem descartados (máximo de 255). Qualquer router está programado para desconectar uma unidade do TTL aos pacotes que o atravessam. Esta é uma forma de evitar que os pacotes permaneçam na rede por tempo infinito, caso o routing não esteja a ser feito devidamente, como no caso de looping. Este valor também é útil no rastreio de circuitos percorridos pelos pacotes, como faz a ferramenta tracerouting. == Ver também == * Formato do Cabeçalho do IPv4 * Routing * Ping Categoria:Redes de computadores Categoria:Protocolos da Internet",
- "title": "Time to Live"
-}
