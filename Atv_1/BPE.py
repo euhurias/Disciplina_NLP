@@ -4,6 +4,7 @@ from collections import defaultdict
 from base import get_stats, merge
 
 
+
 class BPE_Tokenizer:
 
     def __init__(self, num_merges: int):
@@ -53,27 +54,31 @@ class BPE_Tokenizer:
             self.vocab[idx] = self.vocab[pair[0]] + self.vocab[pair[1]]
             
         
-    def decode(self, input_tokens):
-       
-        tokens = b"".join(self.vocab[idx] for idx in input_tokens)
-        text = tokens.decode("utf-8", errors="replace")
-        return text
-
     def encode(self, text):
+        print("Conteúdo de self.merges:", self.merges)
         
-        tokens = list(text.encode("utf-8")) 
-    
+        tokens = self.tokenize_text(text)
+        
         while True:
-            
             stats = get_stats(tokens)
+            
+            # Verifique se stats está vazio e trate o caso
+            if not stats:
+                print("Aviso: 'stats' está vazio, nenhum par encontrado.")
+                break
+            
+            # Encontre o par com menor valor em stats usando self.merges
             pair = min(stats, key=lambda p: self.merges.get(p, float("inf")))
             
             if pair not in self.merges:
-                break 
-            
-            idx = self.merges[pair]
-            tokens = merge(tokens, pair, idx)
-        return tokens
+                break
+
+            # Atualize tokens ao realizar a fusão do par encontrado
+            tokens = merge(tokens, pair)
+
+        # Retorne os tokens processados ou um token desconhecido se estiver vazio
+        return tokens if tokens else ["<UNK>"]
+
 
     def save(self, file_prefix, new_tokens=True, verbose=True):
         file = file_prefix + "_tokens" + str(self.num_merges) + ".txt"
