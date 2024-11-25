@@ -1,0 +1,5 @@
+{
+ "id": "104751",
+ "text": "Extended Binary Coded Decimal Interchange Code (EBCDIC) )é uma codificação de caracteres 8-bit que descende diretamente do código BCD com 6-bit e foi criado pela IBM como um padrão no início dos anos 1960 e usado no IBM System/360. Como consequência daquela descendência direta o código EBCDIC podia ser truncado para 6 bit dando origem ao código BCD com 6 bit. Representa uma primeira tentativa de normalização em paralelo com a normalização ASCII utilizada pelo governo dos Estados Unidos no final dos anos 1960. No EBCDIC são utilizados pela primeira vez 8 bit - 1 byte - para codificar um estado existindo assim a possibilidade de codificar 256 estados diferentes. ==Ver também== *ASCII *UNICODE ==Ligações externas== *Conversão EBCDIC para ASCII *Tabela de Conversão completa EBCDIC para ASCII Categoria:Codificação de caracteres",
+ "title": "Extended Binary Coded Decimal Interchange Code"
+}

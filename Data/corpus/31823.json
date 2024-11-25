@@ -1,0 +1,5 @@
+{
+ "id": "31823",
+ "text": "IEEE 802.2 é um controle lógico de enlace (LLC), que oferece serviços de conexão lógica a nível de camada 2. Implementando funcionalidades para transmissão confiável (conexões, controle de erro, controle de fluxo), oculta as diferenças entre as várias tecnologias de LAN (em relação a camada de rede). Provê o formato de quadro único, interface de serviço única, interface do MAC: Possui 3 tipos de serviço: # Datagrama não confiável; # Datagrama com reconhecimento; # Confiável, orientado à conexões Nos dois últimos o quadro LLC inclui número de sequência de reconhecimento. Categoria:Normas IEEE",
+ "title": "IEEE 802.2"
+}

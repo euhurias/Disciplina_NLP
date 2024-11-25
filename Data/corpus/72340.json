@@ -1,0 +1,5 @@
+{
+ "id": "72340",
+ "text": "O significando, coeficiente ou mantissa, é a porção de dígitos de um sistema de vírgula flutuante que contém os dígitos significativos. Dependendo da interpretação do expoente, o significando pode ser considerado um inteiro ou uma fração. Do latim, mantissa significa a parte quebrada, ou o excedente do peso. Para a matemática, mantissa é a parte decimal de um logaritmo.Dicionário Aurélio da Língua Portuguesa, 5a. ed. Por exemplo, o número 123,45 pode ser representado como um número em ponto flutuante decimal com significando inteiro 12345 e expoente −2. O seu valor é dado pela fórmula: :12345 × 10−2 Este mesmo valor pode também ser representado pelo coeficiente fracional 1.2345 e expoente +2: :1,2345 × 10+2 Categoria:Aritmética",
+ "title": "Significando"
+}

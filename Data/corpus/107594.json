@@ -1,0 +1,5 @@
+{
+ "id": "107594",
+ "text": "H.248, também conhecido como protocolo Megaco, é um padrão desenvolvido cooperativamente entre o ITU e a IETF para permitir que um Media Gateway Controller (MGC) desempenhe seu papel em um media gateway (MG). Competindo com outros protocolos como o MGCP e MDCP, é considerado um protocolo complementar ao H.323 e ao SIP, no qual o MGC controla os MGs via H.248 mas comunicará com outro via H.323 ou SIP. Categoria:Protocolos da Internet Categoria:Voz sobre IP Categoria:Normas da internet",
+ "title": "H.248"
+}
