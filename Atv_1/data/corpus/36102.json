@@ -1,5 +1,0 @@
-{
- "id": "36102",
- "text": "MoinMoin é um software livre escrito em Python para sistemas wiki e licenciado sob a licença GNU GPL. Possui ferramentas avançadas de colaboração para editar web páginas como: revisor ortográfico, deleção de cache, impressão, anexos e outros. Há um plugin MediaWiki que torna o MoinMoin compatível com a linguagem de marcação do MediaWiki, isto é, o plugin consiste em um processo de parser que habilita a interpretação de marcação do MediaWiki no MoinMoin, embora falte algum suporte (como suporte a interwiki, por exemplo).http://moinmo.in/MediaWiki Assim, é possível usar dados do MediaWiki com o MoinMoin.http://moinmo.in/WikiPediaForMoinMoin == Ver também == * Lista de softwares wiki == Ligações externas == * Site oficial * Comparação entre softwares wiki Categoria:Software livre Categoria:Wikis Categoria:Softwares em Python Categoria:Software livre programado em Python",
- "title": "MoinMoin"
-}

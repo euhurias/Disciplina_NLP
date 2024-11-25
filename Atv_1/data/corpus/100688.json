@@ -1,5 +1,0 @@
-{
- "id": "100688",
- "text": "* Abstração ** Abstração de comandos ** Abstração de declarações de tipos. ** Abstração de declarações de variáveis (dados) ** Abstração de expressões * Acoplamento * Algoritmo * Análise de Complexidade * Arranjo ou Array * Árvore ** Árvore Binária ** AVL ** B ** B* ** B+ * Assertivas * Atributo * Caminhamento * Classe ** Construtor ** Instância * Coesão * Coleção * Complexidade ** (O) ** (Θ) ** (Ω) ** Melhor caso(Ω) ** Caso médio(Θ) ** Pior caso (O) ** Constante ** Logarítmica ** Log-Linear ** Linear ** Quadrática ** Cúbica ** Exponencial ** Polinomial ** Fatorial * Conjuntos ** Ordenado ** Genérico * Encapsulação * Estabilidade * Estrutura de Dados * Exceção * FIFO ** Dequeue ** Enqueue * LIFO ** Pop ** Push * Head ou Cabeça * Iterador * Método ou Função * Módulo * Polimorfismo * Recursividade * Tabela **Hash * TAD * Tail ou Cauda * Visibilidade Terminologia * Algoritmos Estruturas Dados",
- "title": "Lista de termos relacionados aos algoritmos e às estruturas de dados"
-}

@@ -1,5 +1,0 @@
-{
- "id": "116845",
- "text": "Em informática, toolkit é um conjunto de widgets, elementos básicos de uma GUI. Normalmente são implementados como uma biblioteca de rotinas ou uma plataforma para aplicativos que auxiliam numa tarefa. == Toolkits populares == === Baixo Nível === * Integradas ao sistema operacional: ** Windows API ** Mac OS toolbox * Implementadas como uma camada no topo do sistema operacional : ** X11 === Alto Nível === * Macintosh: ** Cocoa ** MacApp ** MacZoop * Microsoft Windows: ** Microsoft Foundation Classes ** Windows Forms * UNIX, usando o X11: ** Xaw ** Motif ** Lesstif * Portáveis, usando C/ C++ ou outra linguagem: ** GTK ** Qt ** Tk * Web ** Google Web Toolkit (Converte classes em Java para Javascript, que roda em qualquer navegador. Ex: Gmail, Google Maps) * JAVA ** AWT ** SWT ** Swing Categoria:Programação",
- "title": "Toolkit"
-}

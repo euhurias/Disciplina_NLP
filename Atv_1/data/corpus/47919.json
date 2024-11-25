@@ -1,5 +1,0 @@
-{
- "id": "47919",
- "text": "A frequência de corte (fc) ou frequência meia potência é a frequência abaixo da qual ou acima da qual a potência na saída de um sistema (circuito eletrônico, linha de transmissão, amplificador ou filtro eletrônico) é reduzida a metade da potência da faixa de passagem. Em termos de tensão (ou amplitude) isto corresponde uma redução a 70,7% do valor da faixa de passagem. Como em decibeis, essa redução corresponde a uma atenuação de -3dB, a frequência de corte também é conhecida como frequência de -3dB. Os filtros do tipo passa-altas (FPA) e passa-baixas (FPB) têm apenas uma frequência de corte. Nos filtros passa-faixa (FPF) e rejeita-faixa (FRF) existem duas frequências de corte. Neste caso, a média geométrica das frequências de corte (inferior e superior) é a frequência central (f0) do filtro, na qual o ganho é máximo (FPF)ou mínimo (FRF). == Ligações externas == * Comparação do cálculo da frequência central (f0) com a média geométrica e média aritmética * Conversão da frequência de corte (fc) em constante de tempo (τ) Categoria:Teoria dos filtros Categoria:Eletrônica",
- "title": "Frequência de corte"
-}

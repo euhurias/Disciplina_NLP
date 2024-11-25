@@ -1,5 +1,0 @@
-{
- "id": "35523",
- "text": "Cascading Style Sheets (abreviado CSS) é um mecanismo para adicionar estilos (cores, fontes, espaçamento, etc.) a uma página web, aplicado diretamente nas tags HTML ou ficar contido dentro das tags Esse é um exemplo de popup utilizando o elemento `div`. Dessa maneira esse pop-up não será bloqueado. [[X]](javascript: fechar\\(\\);) [Abrir pop-up](javascript: abrir\\(\\);) [Fechar pop-up](javascript: fechar\\(\\);) == Padronização == === Frameworks === Os frameworks CSS são bibliotecas pré-preparadas destinadas a permitir um estilo mais fácil e mais compatível com os padrões de páginas da web usando a linguagem Cascading Style Sheets. Os frameworks CSS incluem Blueprint, Bootstrap, Cascade Framework, Foundation e Materialize. Assim como as bibliotecas de linguagem de programação e script, os frameworks CSS são geralmente incorporados como planilhas .css externas referenciadas no HTML",
- "title": "Cascading Style Sheets"
-}
